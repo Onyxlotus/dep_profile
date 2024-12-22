@@ -1,1 +1,1 @@
-https://onyxlotus.github.io/my-profile-react/
+https://onyxlotus.github.io/
