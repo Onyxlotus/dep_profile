@@ -1,1 +1,1 @@
-https://onyxlotus.github.io/
+https://onyxlotus.github.io/dep_profile/
