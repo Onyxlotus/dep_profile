@@ -12,7 +12,7 @@ const Navbar = () => {
         <nav className="nav">
         <div className="container">
             <div className="nav-row">
-                <NavLink to="/" className="logo">
+                <NavLink to="/dep_profile" className="logo">
                     <strong>Freelancer</strong> portfolio
                 </NavLink>
                 
@@ -20,7 +20,7 @@ const Navbar = () => {
 
                 <ul className="nav-list">
                     <li className="nav-list__item">
-                        <NavLink to="/" className={({isActive})=>isActive ? activeLink : normalLink}> 
+                        <NavLink to="/dep_profile" className={({isActive})=>isActive ? activeLink : normalLink}> 
                             Home
                         </NavLink>
                     </li>
