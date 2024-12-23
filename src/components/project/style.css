@@ -1,14 +1,15 @@
 .project {
-	max-width: 370px;
+	max-width: 330px;
 	background-color: var(--project-card-bg);
 	box-shadow: var(--box-shadow);
 	border-radius: 10px;
+	text-align: center;
 }
 
 .project__img {
 	border-radius: 10px;
 	height: 278px;
-	width: 100%;
+	width: 330px;
 }
 
 .project__title {
