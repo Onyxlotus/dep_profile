@@ -1,4 +1,4 @@
-import CV from "./../../helpers/Chekmarev Mikhail";
+import CV from "./../../helpers/Chekmarev Mikhail.pdf";
 
 import "./style.css"
 
