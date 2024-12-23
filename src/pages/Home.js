@@ -12,11 +12,11 @@ const Home = () => {
                         <ul className="content-list">
                             <li className="content-list__item">
                                 <h2 className="title-2">Frontend</h2>
-                                <p>JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents</p>
+                                <p>JavaScript, ReactJS (React router, React hooks), HTML, CSS, NPM</p>
                             </li>
                             <li className="content-list__item">
-                                <h2 className="title-2">Backend</h2>
-                                <p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
+                                <h2 className="title-2">Soft skills and tools</h2>
+                                <p>GitHub, Linux, Figma, VScode, English (A2)</p>
                             </li>
                         </ul>
 
