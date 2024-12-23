@@ -22,9 +22,9 @@ function App() {
 
         <Routes>
           <Route path="/dep_profile" element={<Home />} />
-          <Route path="/dep_profile/projects" element={<Projects />} />
-          <Route path="/dep_profile/project/:id" element={<Project />} />
-          <Route path="/dep_profile/contacts" element={<Contacts />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path="/project/:id" element={<Project />} />
+          <Route path="/contacts" element={<Contacts />} />
         </Routes>
 
         <Footer />

@@ -25,12 +25,12 @@ const Navbar = () => {
                         </NavLink>
                     </li>
                     <li className="nav-list__item">
-                        <NavLink to="/dep_profile/projects" className={({isActive})=>isActive ? activeLink : normalLink}> 
+                        <NavLink to="/projects" className={({isActive})=>isActive ? activeLink : normalLink}> 
                             Projects
                         </NavLink>                      
                     </li>
                     <li className="nav-list__item">
-                        <NavLink to="/dep_profile/contacts" className={({isActive})=>isActive ? activeLink : normalLink}> 
+                        <NavLink to="/contacts" className={({isActive})=>isActive ? activeLink : normalLink}> 
                             Contacts
                         </NavLink>
                     </li>
